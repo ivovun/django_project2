@@ -21,3 +21,5 @@ urlpatterns = [
     # path('blog/', include('blog.urls')),
     path('', include('blog.urls')),
 ]
+
+# перед началом добавления templates
